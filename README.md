@@ -1,6 +1,6 @@
 ## `Hi there` 👋
 
-I am a recent graduate (honours) of BEng in Software Engineering at the University of Sheffield and an aspiring Full Stack Developer with a passion for learning and developing new skills. I have experience working with a range of different technologies and languages, including Ruby on Rails, React-native, and Node.js. I have a strong foundation in computer science and software engineering principles, and also have experience working in a team environment on various projects. I am always looking for new challenges and opportunities to grow as a developer.
+I am a recent graduate (hons) of BEng in Software Engineering at the University of Sheffield and an aspiring Full Stack Developer with a passion for learning and developing new skills. I have experience working with a range of different technologies and languages, including Ruby on Rails, React-native, and Node.js. I have a strong foundation in computer science and software engineering principles, and also have experience working in a team environment on various projects. I am always looking for new challenges and opportunities to grow as a developer.
 
 
 
